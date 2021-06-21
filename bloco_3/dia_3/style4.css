@@ -9,6 +9,7 @@ div:first-of-type{
 
 div:nth-child(4) {
     color: purple;
+    text-align: center;
 }
 
 div:nth-child(5) {
@@ -18,8 +19,13 @@ div:nth-child(5) {
 
 div:nth-child(6) {
     color: darkblue;
+    text-decoration: underline;
 }
 
 div:nth-child(7) {
     color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div:nth-child(odd) {
+    font-style: italic;
 }
