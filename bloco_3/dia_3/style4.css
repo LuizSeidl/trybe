@@ -1,0 +1,25 @@
+h3:hover {
+    border:solid 2px;
+}
+
+div:first-of-type{
+    color: blue;
+    font-family: monospace;
+}
+
+div:nth-child(4) {
+    color: purple;
+}
+
+div:nth-child(5) {
+    color: green;
+    font-size: x-large;
+}
+
+div:nth-child(6) {
+    color: darkblue;
+}
+
+div:nth-child(7) {
+    color: aquamarine;
+}
