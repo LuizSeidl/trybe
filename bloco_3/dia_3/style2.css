@@ -1,0 +1,22 @@
+  .mario {
+    width: 200px;
+    top: 100px;
+}
+  
+  .goomba {
+    width: 200px;
+    top: 400px;
+    left: 20px;
+  }
+  
+  .baloon {
+  
+  }
+  
+  .speach {
+    font-size: 25px;
+  }
+  
+  .bowser {
+    width: 200px;
+  }
