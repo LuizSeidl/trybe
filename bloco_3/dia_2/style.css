@@ -1,0 +1,21 @@
+h1 {
+    text-decoration: underline; font-family: sans-serif; color: orange; font-size: 65px;
+  }
+  .background-color {
+    background-color: gray;
+  }
+  body {
+   text-align: center; font-size: 16px;
+  }
+  p {
+  font-size: 3em; font-weight: 600; 
+  }
+  .ama {
+    text-align: right; color: yellow;
+  }
+  .ver {
+    color: red;
+  }
+  .mar {
+    color: brown; text-align: left;
+  }
