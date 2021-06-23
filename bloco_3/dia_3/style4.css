@@ -1,0 +1,31 @@
+h3:hover {
+    border:solid 2px;
+}
+
+div:first-of-type{
+    color: blue;
+    font-family: monospace;
+}
+
+div:nth-child(4) {
+    color: purple;
+    text-align: center;
+}
+
+div:nth-child(5) {
+    color: green;
+    font-size: x-large;
+}
+
+div:nth-child(6) {
+    color: darkblue;
+    text-decoration: underline;
+}
+
+div:nth-child(7) {
+    color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div:nth-child(odd) {
+    font-style: italic;
+}
