@@ -1,0 +1,23 @@
+h1, p {
+    text-align: center;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+a:link { 
+ text-decoration:none;
+}
+
+/* a:link { 
+ text-decoration:none;
+} código pesquisado no google, encontrado na página: https://digital.abc.br/remover-o-sublinhado-nos-links-em-html-css/ */
+
+li:hover {
+    background-color: cornflowerblue;
+}
+
+li:active {
+    font-family: monospace;
+}
